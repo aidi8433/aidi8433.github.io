@@ -1,0 +1,332 @@
+body{
+	background-image: url("images/koz.JPG");
+	background-size: 100%;
+	background-attachment:fixed;
+	margin:auto;
+	padding:0px;
+	background-repeat: no-repeat;
+}
+div {
+	border: 2px solid;
+	margin: 2px;
+	padding: 2px;
+}
+
+pre{
+	font-family:Calibri;
+	font-size:30px;
+	color: white;
+	text-align:center-left;
+}  
+
+
+#initials {
+	font-size: 40px;
+	background-color:black;
+	color:gray;
+}
+
+#initials2  {
+	font-size: 40px;
+	color:gray;
+	background-color:white;
+}
+#menuright {
+	width: 45%;
+	height: 1%;
+	float: right;
+	background-color: black;
+}
+ #menuright ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+ #menuright ul li {
+   float: left;
+}
+
+ #menuright ul li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ #menuright ul li a:hover {
+    background-color: #111;
+}
+.resize {
+    width: 400px;
+    height: auto;
+}
+
+.resize {
+    width: 300px;
+    height: auto;
+}
+
+
+
+
+#initialscont {
+	font-size: 40px;
+	background-color:black;
+	color:gray;
+}
+
+#initials2cont  {
+	font-size: 40px;
+	color:gray;
+	background-color:white;
+}
+#menurightcontact {
+	width: 45%;
+	height: 1%;
+	float: right;
+	background-color: black;
+}
+ #menurightcontact ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+ #menurightcontact ul li {
+   float: left;
+}
+
+ #menurightcontact ul li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ #menurightcontact ul li a:hover {
+    background-color: #111;
+}
+#contact {
+	margin-top: 20px;
+	width: 50%;
+	float: center;
+	height: 500px;
+}
+.call {
+    width: 400px;
+    height: auto;
+}
+
+.call {
+    width: 300px;
+    height: auto;
+}
+
+
+
+
+
+#initialsportf {
+	font-size: 40px;
+	background-color:black;
+	color:gray;
+}
+
+#initials2portf {
+	font-size: 40px;
+	color:gray;
+	background-color:white;
+}
+#menurightportf {
+	width: 45%;
+	height: 1%;
+	float: right;
+	background-color: black;
+}
+ #menurightportf ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+ #menurightportf ul li {
+   float: left;
+}
+
+ #menurightportf ul li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ #menurightportf ul li a:hover {
+    background-color: #111;
+}
+.portf {
+    width: 400px;
+    height: auto;
+}
+
+.portf {
+    width: 300px;
+    height: auto;
+}
+
+
+
+
+
+#initialsphil {
+	font-size: 40px;
+	background-color:black;
+	color:gray;
+}
+
+#initials2phil  {
+	font-size: 40px;
+	color:gray;
+	background-color:white;
+}
+#menurightphil {
+	width: 45%;
+	height: 1%;
+	float: right;
+	background-color: black;
+}
+ #menurightphil ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+ #menurightphil ul li {
+   float: left;
+}
+
+ #menurightphil ul li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ #menurightphil ul li a:hover {
+    background-color: #111;
+}
+#philo {
+	margin-top: 20px;
+	width: 50%;
+	float: center;
+	height: 500px;
+}
+.quans {
+    width: 400px;
+    height: auto;
+}
+
+.quans {
+    width: 300px;
+    height: auto;
+}
+.dogs {
+    width: 400px;
+    height: auto;
+}
+
+.dogs {
+    width: 300px;
+    height: auto;
+}
+
+
+
+
+
+#initialsabout {
+	font-size: 40px;
+	background-color:black;
+	color:gray;
+}
+
+#initials2about  {
+	font-size: 40px;
+	color:gray;
+	background-color:white;
+}
+#menurightabout {
+	width: 45%;
+	height: 1%;
+	float: right;
+	background-color: black;
+}
+ #menurightabout ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+ #menurightabout ul li {
+   float: left;
+}
+
+ #menurightabout ul li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ #menurightabout ul li a:hover {
+    background-color: #111;
+}
+#about {
+	margin-top: 25px;
+	width: 50%;
+	float: center;
+	height: 500px;
+	font-size:20px;
+}
+.bout {
+    width: 400px;
+    height: auto;
+}
+
+.bout {
+    width: 300px;
+    height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
